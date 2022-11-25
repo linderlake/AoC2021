@@ -1,0 +1,5 @@
+AoCHelper/token.txt
+*.out.dSYM
+*.out
+*.txt
+.DS_Store
